@@ -1018,5 +1018,10 @@
     "id": "e9d087078e09e6b0",
     "key": "FacePro05",
     "expiresAt": "21-02-2026"
+  }, 
+  {
+    "id": "a473ccd6cd31aef0",
+    "key": "FacePro06",
+    "expiresAt": "14-02-2026"
   }
 ]
